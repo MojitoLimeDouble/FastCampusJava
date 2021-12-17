@@ -1,0 +1,10 @@
+package ch07;
+
+public class DoubleTest {
+
+	public static void main(String[] args) {
+
+		double dNum = 3.14;
+	}
+
+}
