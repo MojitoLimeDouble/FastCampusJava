@@ -1,0 +1,14 @@
+package ch10;
+
+public class TypeConversionTest {
+
+	public static void main(String[] args) {
+		
+		byte bNum = 125;
+		int iNum = bNum;
+		
+		System.out.println(iNum);
+		// 반대 byte bNum = iNum 으로는 안됨 byte의 범위는 -128~127이기 떄문에
+	}
+
+}
