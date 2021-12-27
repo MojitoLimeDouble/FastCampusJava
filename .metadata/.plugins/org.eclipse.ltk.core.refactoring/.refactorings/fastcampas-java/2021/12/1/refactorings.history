@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;ch21.CountinueTest.java&apos; to &apos;ContinueTest.java&apos;&#x0D;&#x0A;- Original project: &apos;fastcampas-java&apos;&#x0D;&#x0A;- Original element: &apos;ch21.CountinueTest.java&apos;&#x0D;&#x0A;- Renamed element: &apos;ch21.ContinueTest.java&apos;" description="Rename compilation unit &apos;CountinueTest.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;ch21{CountinueTest.java" name="ContinueTest.java" references="false" stamp="1640596923190" version="1.0"/>
+</session>
